@@ -1,4 +1,10 @@
-{
-  "title":"Test Thông Báo",
-  "content":""
-}
+"noti": [
+  "1": {
+    "title":"Test Thông Báo",
+    "content":"Đây là thông báo"
+  },
+  "2": {
+    "title":"Test Thông Báo 2",
+    "content":"Đây là thông báo 2"
+  }
+]
